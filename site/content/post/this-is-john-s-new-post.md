@@ -7,3 +7,5 @@ image: /img/artbundle-ad-1.jpg
 Hey, how are you doing? Are you loving this?
 
 ![Why is this not working?](/img/art-bundle-ad2.jpg)
+
+Do you think this is a good way to blog?
